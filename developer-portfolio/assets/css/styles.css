@@ -214,3 +214,22 @@ nav ul li {
     padding: 20px;
     margin: 10px;
 }
+
+.socials {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 1%;
+    bottom: 50%;
+    align-items: flex-end;
+}
+
+.socialicon {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.socialicon:hover {
+    width: 4rem;
+    height: 4rem;
+}
