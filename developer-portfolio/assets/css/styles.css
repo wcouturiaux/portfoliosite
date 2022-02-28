@@ -101,8 +101,8 @@ nav ul li {
 }
 
 .hero img {
-    height: 37.5rem;
-    width: 37.5rem;
+    height: 30rem;
+    width: 30rem;
     object-fit: cover;
     border-radius: 50%;
 }
@@ -232,4 +232,12 @@ nav ul li {
 .socialicon:hover {
     width: 4rem;
     height: 4rem;
+}
+
+footer {
+    background-color: var(--bg-color);
+    padding: 1.25rem;
+    text-align: center;
+    margin: 2rem 0 0;
+    box-shadow: 0 -3px 10px var(--primary-shadow);
 }
