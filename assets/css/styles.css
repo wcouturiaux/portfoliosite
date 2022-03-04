@@ -98,6 +98,7 @@ nav ul li {
     gap: 2.5rem;
     max-width: 68.75rem;
     margin: auto;
+    margin-top: 1rem;
 }
 
 .hero img {
