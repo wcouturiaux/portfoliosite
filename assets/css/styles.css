@@ -82,6 +82,10 @@ nav ul li {
     font-weight: var(--bold-font);
 }
 
+section {
+    scroll-margin-top: 5rem;
+}
+
 .burger-menu {
     color: var(--primary-color);
     font-size: 2rem;
